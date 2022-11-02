@@ -1,32 +1,20 @@
 ---
-title: "Homework 4"
+title: "Homework 4 Webpage"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# This loads a picture from the web
+# Welcome!
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-# This loads a local picture
+![](https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif)
 
-<img src="images/weird.jpg" style="width:75%">
 
-# Add Code Chunks
+Welcome to my first website, as part of Homework 4 for course P8105 Data Science. Please use the navigation bar to toggle between this page ([Home](index.html)), a page about my academic and professional experience ([Resume](about2.html)), a page with a dashboard of weather related data of NYC ([Dashboard](dashboard.html)), links to my GitHub and LinkedIn accounts, as well as a button to send me an email. For any other inquiries please refer to [Google](https://google.com).
 
-```{r}
-rnorm(10)
-```
 
-# Create links 
+# Below a corporate shot of me.
 
-* [Link Name For a Website](https://google.com)
-* [Wikipedia](https://wikipedia.com)
-
-## Link to page within the site
-
-[About me](about.html)
-
-## 
+<img src="images/tim.jpg" style="width:75%">

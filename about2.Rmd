@@ -1,0 +1,137 @@
+---
+title: "Tim Hauser's Resume"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+- <i class="fa fa-envelope"></i> thauser22@gsb.columbia.edu
+- <i class="fa fa-linkedin"></i> [linkedin.com/hausertim](https://linkedin.com/in/hausertim/)
+- <i class="fa fa-phone"></i> +1 212-810-1672
+- For more information, please contact me via email.
+
+<br>
+<br>
+
+Education
+--------------------------------------------------------------------------------
+
+### COLUMBIA BUSINESS SCHOOL / COLUMBIA MAILMAN SCHOOL OF PUBLIC HEALTH
+
+MBA/MPH Dual Degree, Healthcare and Pharmaceutical Management, December 2022
+
+New York, NY
+
+2020-2022
+
+Member: Health Care Industry Association, Technology & Data Analytics Association, Arts Society, Snow Sports Club
+
+<br>
+
+### ETH ZURICH
+
+MS, Management, Technology and Economics (minor in Biological Sciences), April 2018
+
+Zurich, Switzerland
+
+2015-2018
+
+Honors: graduated top 15% of class
+
+Study Abroad: University of Oxford (New College), UK and KTH Royal Institute of Technology, Sweden
+
+<br>
+
+### UNIVERSITY OF ZURICH
+
+BS, Biological Sciences, June 2014
+
+Zurich, Switzerland
+
+2011-2014
+
+Honors: graduated top 10% of class
+
+Internships: Nestlé Product Technology Center, York, UK (topic: food conservation) and Swiss Federal Laboratories for Materials Science (EMPA), St. Gallen, Switzerland (topic: biopolymers)
+
+<br>
+<br>
+
+Experience
+--------------------------------------------------------------------------------
+
+### MCKINSEY & COMPANY
+
+Associate Consultant (2020), Fellow Consultant (2018-2019)
+
+Zurich, Switzerland
+
+2018-2020
+
+Served 12 clients primarily in Pharma and public health across Europe (Denmark, Germany, Portugal, Romania, Switzerland, UK):
+
+ * Conducted a due diligence for a global Pharma company on a pre-clinical Cell & Gene Therapy asset, including market sizing and modeling of alternative payment methods to evaluate economic potential of future therapies within the next 20 years.
+
+ * Led multiple cross-functional workstreams (commercial, marketing & market access) to recommend and implement measures to increase the launch readiness of a global Pharma company for an upcoming drug launch in Germany ($200 mn peak revenue).
+
+ * Advised a governmental agency which research areas to fund by evaluating health-related, societal, and economic benefits of drugs in various therapeutic areas ($5 bn GDP impact). The output was presented at the biggest national healthcare conference.
+
+ * Advised a non-profit organization on the potential of Voluntary Infection Models using mosquitos to test its anti-malaria drugs.Presented the output to the CEO and as a result the organization renegotiated its contracts with R&D providers.
+
+<br>
+
+### ETH JUNIORS
+
+Vice-President (2017) / CFO (2016) and Project Manager (2016-2017), Part-Time
+
+Zurich, Switzerland
+
+2016-2017
+
+Europe’s largest student-run consulting organization (revenues of $1 mn and 60 projects/year):
+
+ * Led the enterprise (12 people) as vice-president, oversaw quality assurance and contractual commitments of all projects, and represented the company in front of senior stakeholders (key clients, university representatives, and the board of directors).
+
+ * Led the finance team (3 people) as CFO and held full responsibility for all financial concerns of the enterprise, including the preparation of quarterly reports, budgeting and forecasting, and providing strategic recommendation to the (vice-)president.
+
+ * Was responsible for the acquisition, conception and supervision of eight projects in process digitalization, app development, website development, and market research. One project was awarded Best Consulting Project 2016 by Jade Switzerland.
+
+<br>
+
+### IMPULZE
+
+Analyst, Competitive Intelligence
+
+Zurich, Switzerland
+
+2015
+
+Boutique Consulting in market research and competitive intelligence for the healthcare industry:
+
+ * Built up a competitive intelligence branch together with a senior partner. Led one oncology and two Multiple Sclerosis projects providing market insights for upcoming drug launches of a global Pharma company in Switzerland (revenue per project >$100k).
+
+<br>
+
+### HELSANA
+
+Intern, Compensation & Benefits
+
+Zurich, Switzerland
+
+2014-2015
+
+Switzerland’s largest healthcare payer (revenues of $7 bn and 2 mn customers):
+
+ * Performed comparative compensation & benefits analyses, consulted internal employees at manager level and above, and prepared presentations for the board of directors as a direct report to an HR manager.
+
+<br>
+<br>
+
+Additional Information
+--------------------------------------------------------------------------------
+
+ * Technical skills: Tableau, SPSS, STATA, R (basic), Python (basic), VBA (basic)
+ * Volunteer Work: Supported education of juvenile male delinquents in a youth prison, provided counsel in a charitable coffee shop for addiction prevention, and organized recreational activities for residents of intensive care units in a nursing home.
+ * Languages: German (native), French (intermediate), Italian (basic)
+ * Interests: Scuba diving (Advanced Open Water Diver), snowboarding, rowing, architecture, traveling (35 countries and counting)
